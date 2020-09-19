@@ -3,7 +3,7 @@ This repository provides the OpenCL and Matlab codes that simulate the phase sep
 ## Guide for code 
 * Matlab fold includes the Matlab code on the derivation of potential function.
 
-* OpenCL fold includes the C++ code with cmake file to numerical results of self-organized patterns from Model 1 and Model 2 described in Supplementary Information.[OpenCL](http://en.wikipedia.org/wiki/OpenCL) is used as the computation engine, to take advantage of the spatial meshgrid on graphics cards and modern CPUs.
+* OpenCL fold includes the C++ code with cmake file to numerical results of self-organized patterns from Model 1 and Model 2 described in Supplementary Information. [OpenCL](http://en.wikipedia.org/wiki/OpenCL) is used as the computation engine, to take advantage of the spatial meshgrid on graphics cards and modern CPUs.
 
 * R_code fold includes data statistical analyses and figures generated with RStudio.
 ## Availability 
