@@ -8,3 +8,6 @@ This repository provides the OpenCL and Matlab codes that simulate the phase sep
 * R_code fold includes data statistical analyses and figures generated with RStudio.
 ## Availability 
 The full codes and experimental data will be aviable once the original article acceptence. 
+
+## Data availability
+Where to obtain the data for the plot? We only keep the code here for convenience. The data about 2.5 GB will be available at the Zenodo repository (coming soon).
