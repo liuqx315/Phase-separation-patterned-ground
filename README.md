@@ -1,5 +1,5 @@
 # Phase-separation-sorted-patterned-ground
-This repository provides the OpenCL and Matlab codes that simulate the phase separation model 1 and model 2 on our manuscript. "Experimental Evidence for Phase Separation Organizing Patterned Ground" by Anyuan Li, Norikazu Matsuoka, Fujun Niu, Jing Chen, Zhenpeng Ge, Wensi Hu, Desheng Li, Bernard Hallet, Johan van de Koppel, Nigel Goldenfeld, and Quan-Xing Liu (2021).
+This repository provides the OpenCL and Matlab codes that simulate the phase separation model 1 and model 2 on our manuscript. "Ice needles weave patterns of stones in frozen landscapes" by Anyuan Li, Norikazu Matsuoka, Fujun Niu, Jing Chen, Zhenpeng Ge, Wensi Hu, Desheng Li, Bernard Hallet, Johan van de Koppel, Nigel Goldenfeld, and Quan-Xing Liu (2021).
 
 ## Guide for code 
 * Matlab fold includes the Matlab code on the derivation of the potential functions on theoretical models.
