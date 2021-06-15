@@ -1,0 +1,5 @@
+/Users/quan-xing/Desktop/OpenCL/build/CMakeFiles/rebuild_cache.dir
+/Users/quan-xing/Desktop/OpenCL/build/CMakeFiles/edit_cache.dir
+/Users/quan-xing/Desktop/OpenCL/build/CMakeFiles/destroy.dir
+/Users/quan-xing/Desktop/OpenCL/build/CMakeFiles/run.dir
+/Users/quan-xing/Desktop/OpenCL/build/CMakeFiles/Stone2Parameter.dir

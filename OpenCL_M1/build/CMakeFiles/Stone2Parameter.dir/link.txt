@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/Stone2Parameter.dir/Main_Program.cpp.o CMakeFiles/Stone2Parameter.dir/Device_Utilities.cpp.o -o Stone2Parameter  -framework OpenCL 
