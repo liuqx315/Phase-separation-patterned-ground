@@ -18,7 +18,7 @@ The fold includes the Matlab codes for theoretical lines of Figure 3 A and B in 
 * The full codes and experimental data will be available once the original article acceptance. 
 
 ## Data availability
-* Where to obtain the data for the plot? We only keep the code here for convenience. The data of about 2.5 GB will be available at the Zenodo repository (coming soon).
+* Where to obtain the data for the plot? We only keep the code here for convenience.
 
 ## Questions
 Please contact Quan-Xing Liu (qxliu@sklec.ecnu.edu.cn) for any questions. 
